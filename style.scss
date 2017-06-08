@@ -114,8 +114,16 @@ body {
     background-image: url("paper.gif");
 }
 
-body {
-    background-image: url("gradient_bg.png");
+h1 {
+    background-color: green;
+}
+
+div {
+    background-color: lightblue;
+}
+
+p {
+    background-color: yellow;
 }
 
 // Fixes images in popup boxes from Google Translate
